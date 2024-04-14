@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Pre Requsites
+## Pre Requisites
 
 Make sure you have installed the latest version of node to run this project on your machine
 
@@ -22,3 +22,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+<img width="1512" alt="Screenshot 2024-04-14 at 6 39 00 PM" src="https://github.com/sahil137/table-assignment/assets/46193454/f837151e-5c60-419c-a114-8195ee6f0e99">
